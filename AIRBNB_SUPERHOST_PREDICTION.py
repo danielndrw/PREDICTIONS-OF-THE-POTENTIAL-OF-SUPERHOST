@@ -102,9 +102,3 @@ elif page == "📌 Tentang Project":
     \""")
 """
 
-# Simpan file ke direktori kerja
-with open("/mnt/data/app.py", "w") as f:
-    f.write(streamlit_app_code)
-
-"/mnt/data/app.py"
-
